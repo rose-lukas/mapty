@@ -7,7 +7,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-# ![Screenshot](icon.png) mapty 
+# ![Screenshot](icon.png) [mapty](http://www.lukasrose.ca/mapty/) 
 
 <!-- ABOUT THE PROJECT -->
 
